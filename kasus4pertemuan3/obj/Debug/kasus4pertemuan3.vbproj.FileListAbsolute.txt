@@ -1,0 +1,11 @@
+D:\CodingDev\Visual Basic\kasus4pertemuan3\bin\Debug\kasus4pertemuan3.exe.config
+D:\CodingDev\Visual Basic\kasus4pertemuan3\bin\Debug\kasus4pertemuan3.exe
+D:\CodingDev\Visual Basic\kasus4pertemuan3\bin\Debug\kasus4pertemuan3.pdb
+D:\CodingDev\Visual Basic\kasus4pertemuan3\bin\Debug\kasus4pertemuan3.xml
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.vbprojAssemblyReference.cache
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.Form1.resources
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.Resources.resources
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.vbproj.GenerateResource.cache
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.exe
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.xml
+D:\CodingDev\Visual Basic\kasus4pertemuan3\obj\Debug\kasus4pertemuan3.pdb

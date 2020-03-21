@@ -1,0 +1,11 @@
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan 1.vbprojAssemblyReference.cache
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan_1.Form1.resources
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan_1.Resources.resources
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan 1.vbproj.GenerateResource.cache
+D:\CodingDev\Visual Basic\Latihan 1\bin\Debug\Latihan 1.exe.config
+D:\CodingDev\Visual Basic\Latihan 1\bin\Debug\Latihan 1.exe
+D:\CodingDev\Visual Basic\Latihan 1\bin\Debug\Latihan 1.pdb
+D:\CodingDev\Visual Basic\Latihan 1\bin\Debug\Latihan 1.xml
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan 1.exe
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan 1.xml
+D:\CodingDev\Visual Basic\Latihan 1\obj\Debug\Latihan 1.pdb

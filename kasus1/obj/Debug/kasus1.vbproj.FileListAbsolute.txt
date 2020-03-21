@@ -1,0 +1,11 @@
+D:\CodingDev\Visual Basic\kasus1\bin\Debug\kasus1.exe.config
+D:\CodingDev\Visual Basic\kasus1\bin\Debug\kasus1.exe
+D:\CodingDev\Visual Basic\kasus1\bin\Debug\kasus1.pdb
+D:\CodingDev\Visual Basic\kasus1\bin\Debug\kasus1.xml
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.vbprojAssemblyReference.cache
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.Form1.resources
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.Resources.resources
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.vbproj.GenerateResource.cache
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.exe
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.xml
+D:\CodingDev\Visual Basic\kasus1\obj\Debug\kasus1.pdb

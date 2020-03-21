@@ -1,0 +1,22 @@
+C:\Users\nagara\source\repos\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.exe.config
+C:\Users\nagara\source\repos\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.exe
+C:\Users\nagara\source\repos\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.pdb
+C:\Users\nagara\source\repos\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.xml
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.vbprojAssemblyReference.cache
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.Resources.resources
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.vbproj.GenerateResource.cache
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.exe
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.xml
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.pdb
+C:\Users\nagara\source\repos\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.form.resources
+D:\CodingDev\Visual Basic\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.exe.config
+D:\CodingDev\Visual Basic\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.exe
+D:\CodingDev\Visual Basic\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.pdb
+D:\CodingDev\Visual Basic\kasus2pertemuan3\bin\Debug\kasus2pertemuan3.xml
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.vbprojAssemblyReference.cache
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.form.resources
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.Resources.resources
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.vbproj.GenerateResource.cache
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.exe
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.xml
+D:\CodingDev\Visual Basic\kasus2pertemuan3\obj\Debug\kasus2pertemuan3.pdb

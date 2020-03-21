@@ -1,0 +1,11 @@
+C:\Users\nagara\source\repos\kasus9pertemuan3\bin\Debug\kasus9pertemuan3.exe.config
+C:\Users\nagara\source\repos\kasus9pertemuan3\bin\Debug\kasus9pertemuan3.exe
+C:\Users\nagara\source\repos\kasus9pertemuan3\bin\Debug\kasus9pertemuan3.pdb
+C:\Users\nagara\source\repos\kasus9pertemuan3\bin\Debug\kasus9pertemuan3.xml
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.vbprojAssemblyReference.cache
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.Form1.resources
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.Resources.resources
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.vbproj.GenerateResource.cache
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.exe
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.xml
+C:\Users\nagara\source\repos\kasus9pertemuan3\obj\Debug\kasus9pertemuan3.pdb
