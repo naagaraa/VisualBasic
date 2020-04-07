@@ -1,0 +1,11 @@
+D:\CodingDev\VisualBasic\kasus1pertemuan5\bin\Debug\kasus1pertemuan5.exe.config
+D:\CodingDev\VisualBasic\kasus1pertemuan5\bin\Debug\kasus1pertemuan5.exe
+D:\CodingDev\VisualBasic\kasus1pertemuan5\bin\Debug\kasus1pertemuan5.pdb
+D:\CodingDev\VisualBasic\kasus1pertemuan5\bin\Debug\kasus1pertemuan5.xml
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.vbprojAssemblyReference.cache
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.Form1.resources
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.Resources.resources
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.vbproj.GenerateResource.cache
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.exe
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.xml
+D:\CodingDev\VisualBasic\kasus1pertemuan5\obj\Debug\kasus1pertemuan5.pdb

@@ -1,0 +1,11 @@
+D:\CodingDev\VisualBasic\latihan3pertemuan6\bin\Debug\latihan3pertemuan6.exe.config
+D:\CodingDev\VisualBasic\latihan3pertemuan6\bin\Debug\latihan3pertemuan6.exe
+D:\CodingDev\VisualBasic\latihan3pertemuan6\bin\Debug\latihan3pertemuan6.pdb
+D:\CodingDev\VisualBasic\latihan3pertemuan6\bin\Debug\latihan3pertemuan6.xml
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.vbprojAssemblyReference.cache
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.Form1.resources
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.Resources.resources
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.vbproj.GenerateResource.cache
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.exe
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.xml
+D:\CodingDev\VisualBasic\latihan3pertemuan6\obj\Debug\latihan3pertemuan6.pdb
